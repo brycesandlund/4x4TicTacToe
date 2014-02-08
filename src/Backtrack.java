@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Backtrack on only a 4x4 board.
+ * Backtrack on only a 4x4 board. Arbitrary comment after source control setup!
  * @author Bryce Sandlund, Kerrick Staley, Michael Dixon
  *
  */
